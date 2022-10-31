@@ -29,16 +29,10 @@ class Program
             escolha = Console.ReadLine();
           Console.Clear();
         } 
-            if (escolha == "2")
+            if (escolha != "1")
               { 
                 Console.WriteLine("Consulta realizada. Obrigado!");
                } 
-
     } 
 
 } 
-
-
-
-
-
